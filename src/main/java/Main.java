@@ -16,7 +16,7 @@ public class Main {
             fileIO f=new fileIO();
             f.read_Sort_Write("C:/Users/JSA334/IdeaProjects/java-basics/files/in1.txt","C:/Users/JSA334/IdeaProjects/java-basics/files/in2.txt");
             */
-        
+
 //        ex:2 using Retrofit
             /*
             RestClient restClient= new RestClient();
@@ -25,6 +25,7 @@ public class Main {
                 System.out.println(photo.getTitle());
             });
             */
+
     }
 
 }
